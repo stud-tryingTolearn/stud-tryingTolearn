@@ -1,2 +1,2 @@
-# stud-tryingTolearn
+# stud-tryingTolearn.github.io
 ust student project
